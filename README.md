@@ -9,7 +9,7 @@ It uses:
 * Simple Html Dom - to parse HTMl elements.
 * RedBeanPHP - to save each parsed object to the database.
 
-Free to use for whatever you like.
+Free to use for whatever you like. See index.php file for implementation.
 
 
 ---
